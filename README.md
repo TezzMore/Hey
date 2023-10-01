@@ -12,7 +12,7 @@
 
 
 
-🚀 Currently navigating the world of code as an undergrad at IIT BHU Varanasi,evolving through the twists and turns of an Integrated Dual Degree.
+🚀 Currently navigating the world of code,pursuing Computer Science and Engineering at IIT BHU Varanasi,evolving through the twists and turns of an Integrated Dual Degree.
 
 💡 I thrive on curiosity and am diving deep into the realms of React and Node.js, uncovering their secrets one line at a time.
 
