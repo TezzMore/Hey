@@ -30,12 +30,13 @@
 
 🎨 I don't just code; I paint digital dreams and engineer experiences that spark wonder.
 
-🔝 Here are some of the enchanted languages and repositories I've conjured: [Link to your Top Languages and Repositories]
-[AmazonSetuBackend]https://github.com/TezzMore/AmazonSetuBackend
+🔝 Here are some of the enchanted languages and repositories I've conjured: 
 
-[AmazonSetuFrontend]https://github.com/TezzMore/AmazonSetuFrontend
+[AmazonSetuBackend](https://github.com/TezzMore/AmazonSetuBackend)
 
-[ToDoDiary]https://github.com/TezzMore/ToDoDiary
+[AmazonSetuFrontend](https://github.com/TezzMore/AmazonSetuFrontend)
+
+[ToDoDiary](https://github.com/TezzMore/ToDoDiary)
 
 
 🌌 Thanks for venturing into my realm of code. Let's embark on a journey of innovation together!
