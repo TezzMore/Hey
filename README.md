@@ -18,7 +18,7 @@
 
 💬 Let's chat about the art of code, whether it's the dance of React, the elegance of Django, or the mysteries of SQL.
 
-🌍 I'm just an email away at tejasbhausaheb.more.cse21@itbhu.ac.in, and you can also explore my journey further,my Resume[Chronicles](https://drive.google.com/file/d/1tQxE-5q7JTYRNhuVOU80PTBM7hdOJbcS/view?usp=sharing).
+🌍 I'm just an email away at tejasbhausaheb.more.cse21@itbhu.ac.in, and you can also explore my journey further,my [Resume](https://drive.google.com/file/d/1tQxE-5q7JTYRNhuVOU80PTBM7hdOJbcS/view?usp=sharing).
 
 💻 My tools of choice:
    - Crafting spells with JavaScript, CSS3, HTML5, Python, C++.
@@ -31,5 +31,11 @@
 🎨 I don't just code; I paint digital dreams and engineer experiences that spark wonder.
 
 🔝 Here are some of the enchanted languages and repositories I've conjured: [Link to your Top Languages and Repositories]
+[AmazonSetuBackend]https://github.com/TezzMore/AmazonSetuBackend
+
+[AmazonSetuFrontend]https://github.com/TezzMore/AmazonSetuFrontend
+
+[ToDoDiary]https://github.com/TezzMore/ToDoDiary
+
 
 🌌 Thanks for venturing into my realm of code. Let's embark on a journey of innovation together!
