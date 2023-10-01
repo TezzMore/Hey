@@ -1,5 +1,9 @@
 👋 Hey there, I'm Tejas Bhausaheb More,a digital explorer on a quest for elegant code and creative solutions.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tejas-more-9103ab224/)
+[![Twitter](https://img.shields.io/badge/Twitter-Handle-blue?style=for-the-badge&logo=twitter)](https://twitter.com/tejas_more03)
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/tejas_more03/)
+
 
 [LinkedIn](https://www.linkedin.com/in/tejas-more-9103ab224/) | 
 [Twitter](https://twitter.com/tejas_more03) | 
