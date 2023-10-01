@@ -3,15 +3,12 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejas-more-9103ab224/)
-[![Instagram](https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tejas_more03/)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tejas_more03)
+[![Instagram](https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tejas_more03/)
+
 
 </div>
 
-
-[LinkedIn](https://www.linkedin.com/in/tejas-more-9103ab224/) | 
-[Twitter](https://twitter.com/tejas_more03) | 
-[Instagram](https://www.instagram.com/tejas_more03/)
 
 
 
