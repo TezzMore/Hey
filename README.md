@@ -10,7 +10,7 @@
 </div>
 
 
-
+💻Tech Stack
 
 🚀 Currently navigating the world of code,pursuing Computer Science and Engineering at IIT BHU Varanasi,evolving through the twists and turns of an Integrated Dual Degree.
 
